@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9994186f-371c-419e-b656-46dba4213373" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1zXEW6HwanFbUoUranjazCNmVj1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\israr.hussain\Downloads\Portfolio_site" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Portfolio_site" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Portfolio_site" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="Portfolio_site.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9994186f-371c-419e-b656-46dba4213373" name="Default Changelist" comment="" />
+      <created>1634286060453</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634286060453</updated>
+      <workItem from="1634286123364" duration="6103000" />
+      <workItem from="1634620356848" duration="2635000" />
+      <workItem from="1634631883575" duration="2522000" />
+      <workItem from="1634926397353" duration="1128000" />
+      <workItem from="1635073156772" duration="132000" />
+      <workItem from="1635397253736" duration="2646000" />
+      <workItem from="1636459521278" duration="19000" />
+      <workItem from="1637734666962" duration="42000" />
+      <workItem from="1645213227509" duration="2615000" />
+      <workItem from="1645227372457" duration="3348000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="436" y="100" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1645213671731">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="436" y="100" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1645213671731" />
+    <state width="1481" height="197" key="GridCell.Tab.0.bottom" timestamp="1645230960685">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="197" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1645230960685" />
+    <state width="1481" height="197" key="GridCell.Tab.0.center" timestamp="1645230960685">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="197" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1645230960685" />
+    <state width="1481" height="197" key="GridCell.Tab.0.left" timestamp="1645230960685">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="197" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1645230960685" />
+    <state width="1481" height="197" key="GridCell.Tab.0.right" timestamp="1645230960685">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="197" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1645230960685" />
+    <state x="-1329" y="247" key="com.intellij.ide.util.TipDialog" timestamp="1637734694861">
+      <screen x="-1920" y="-115" width="1920" height="1160" />
+    </state>
+    <state x="-1329" y="247" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.-115.1920.1160@-1920.-115.1920.1160" timestamp="1637734694861" />
+    <state x="417" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1645228737847">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="417" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1645228737847" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Portfolio_site/urls.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

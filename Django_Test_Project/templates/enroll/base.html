@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+{% load static %}`
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test DJANGO Project 24 December 2019</title>
+
+    <link rel="stylesheet" href="{% static 'enroll/css/bootstrap.css' %}">
+</head>
+<body>
+    <div class="container mt-5">
+        <h2 class="text-center alert alert-danger">Testing Project For Django 24 December 2019 </h2>
+        {% block content %}
+        {% endblock %}
+    </div>
+
+    <script src="{% static 'enroll/js/jquery.js' %}"></script>
+    <script src="{% static 'enroll/js/popper.js' %}"></script>
+    <script src="{% static 'enroll/js/bootstrap.js' %}"></script>
+    
+</body>
+</html>
